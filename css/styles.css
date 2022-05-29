@@ -87,6 +87,9 @@ header button{
   font-size: 16px;
   margin-top: 8px;
 }
+.products li h2, .products li p{
+  display: block;
+}
 .products ul{
   margin-top: 32px;
   display: flex;
